@@ -1,6 +1,7 @@
 # Event Management System — Java Console Application
 
-A Java console-based **Event Management System** for creating events, registering participants, recording attendance, and generating year-wise statistics. The project is implemented using core Java features and OOP principles and is ideal as a learning or assignment project.
+A Java console-based **Event Management System** for creating events, registering participants, recording attendance, and generating year-wise statistics. 
+The project is implemented using core Java features and OOP principles and is ideal as a learning or assignment project.
 
 ---
 
@@ -43,5 +44,5 @@ The project demonstrates the use of interfaces, collections, sorting, and aggreg
 
 ---
 
-## 📁 Project Structure (example)
+
 
